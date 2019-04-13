@@ -1,0 +1,6 @@
+1. clean up shell screen
+  import os
+  os.system('cls')
+2. get python version
+  import sys
+  print(sys.version)
